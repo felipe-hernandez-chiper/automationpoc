@@ -23,10 +23,10 @@
     "testing",
     "webdriverio"
   ],
-  "author": "Jan Molak <jan.molak@smartcodeltd.co.uk>",
-  "license": "Apache-2.0",
+  "author": "Chiper Automation Team",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/serenity-js/serenity-js-cucumber-webdriverio-template/issues"
+    "url": "https://github.com/chiper-inc/Ecommerce-Mobile-UI-Automation/issues"
   },
   "homepage": "https://serenity-js.org",
   "engines": {
